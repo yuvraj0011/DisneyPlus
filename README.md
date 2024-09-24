@@ -2,7 +2,10 @@
 
 This project is a DisneyPlus Clone, a responsive web application built using modern web technologies. The app mimics the DisneyPlus UI and utilizes the MovieDB API to fetch real-time data for movies and TV shows. The frontend is developed using Vite + React.js and styled with Tailwind CSS, while a simple API is created using Node.js and Express.js to handle backend tasks.
 
-[Watch the demo video](./assets/demo-video.mp4)
+## DisneyPlus Clone Demo
+
+![DisneyPlus Clone Demo](./DisneyPlus.gif)
+
 
 ## Features
 
